@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293085310348",
+    "firebase_url": "https://umed-4fc3a.firebaseio.com",
+    "project_id": "umed-4fc3a",
+    "storage_bucket": "umed-4fc3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293085310348:android:a5af3607f7dac0458cbaa9",
+        "android_client_info": {
+          "package_name": "com.example.umed_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293085310348-4sjj0po76pnekopmulqdl8dh21rf4png.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.umed_v2",
+            "certificate_hash": "c1e1fdd77c6da6fb72d4093600ff5611bd5424e2"
+          }
+        },
+        {
+          "client_id": "293085310348-qd5a63g4c0gvvr94f50e0dpqq3h7hu4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9SCNIhyZnVQTl6Gfd1GfXnast2GrkVCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293085310348-qd5a63g4c0gvvr94f50e0dpqq3h7hu4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
